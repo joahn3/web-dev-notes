@@ -6,6 +6,9 @@ Web-dev Notes &amp; references &amp; links
 - web Linter
 https://webhint.io/
 
+- Webhint Browser Extension
+https://webhint.io/docs/user-guide/extensions/extension-browser/
+
 - Code formatter
 https://prettier.io/docs/en/install.html
 
