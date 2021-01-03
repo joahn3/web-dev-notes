@@ -23,3 +23,8 @@ https://developer.mozilla.org/en-US/docs/Learn
 
 4. Rico's cheatsheets
 https://devhints.io/
+
+### Web-tests:
+
+- Google Lighthouse
+https://github.com/GoogleChrome/lighthouse
