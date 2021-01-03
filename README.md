@@ -8,6 +8,10 @@ Web-dev Notes &amp; references &amp; links
 
 ## Cheatsheets:
 
+- Mozilla web-dev learning:
+https://developer.mozilla.org/en-US/docs/Learn
+- 
+
 1. React Cheat Sheet if you’re new to React
 [https://devhints.io/react]
 
@@ -16,3 +20,6 @@ Web-dev Notes &amp; references &amp; links
 
 3. Next.js Cheat Sheet if you’re new to Next
 [https://www.saltycrane.com/cheat-sheets/typescript/next.js/latest/]
+
+4. Rico's cheatsheets
+https://devhints.io/
