@@ -6,6 +6,9 @@ Web-dev Notes &amp; references &amp; links
 - web Linter
 https://webhint.io/
 
+- Code formatter
+https://prettier.io/docs/en/install.html
+
 ## Awesome libraries:
 
 1. Next.js
