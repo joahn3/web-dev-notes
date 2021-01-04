@@ -1,8 +1,9 @@
 # Web-dev-notes
 Web-dev Notes &amp; references &amp; links
 
-# Coding Interview University
-https://github.com/jwasham/coding-interview-university
+## Coding Interview University
+- https://github.com/jwasham/coding-interview-university
+
 
 # Code help:
 
