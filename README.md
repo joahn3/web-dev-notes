@@ -39,3 +39,6 @@ https://devhints.io/
 
 - Google Lighthouse
 https://github.com/GoogleChrome/lighthouse
+
+#### React.js / Next.js and Vue.js / Nuxt.js Syntax Comparison Side by Side
+https://dev.to/oahehc/react-js-next-js-and-vue-js-nuxt-js-syntax-comparison-side-by-side-e3p
