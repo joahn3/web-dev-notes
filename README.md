@@ -7,6 +7,8 @@ Web-dev Notes &amp; references &amp; links
 
 # Code help:
 
+- AI powered code completions to your code editor:
+https://www.kite.com/get-kite/
 - web Linter
 https://webhint.io/
 
@@ -19,7 +21,7 @@ https://prettier.io/docs/en/install.html
 ## Awesome libraries:
 
 1. Next.js
-[https://github.com/unicodeveloper/awesome-nextjs]
+https://github.com/unicodeveloper/awesome-nextjs
 
 ## Cheatsheets:
 
@@ -28,13 +30,13 @@ https://developer.mozilla.org/en-US/docs/Learn
 - 
 
 1. React Cheat Sheet if you’re new to React
-[https://devhints.io/react]
+https://devhints.io/react
 
 2. TypeScript Cheat Sheet if you’re new to TypeScript
-[https://react-typescript-cheatsheet.netlify.app/docs/basic/setup]
+https://react-typescript-cheatsheet.netlify.app/docs/basic/setup
 
 3. Next.js Cheat Sheet if you’re new to Next
-[https://www.saltycrane.com/cheat-sheets/typescript/next.js/latest/]
+https://www.saltycrane.com/cheat-sheets/typescript/next.js/latest/
 
 4. Rico's cheatsheets
 https://devhints.io/
@@ -48,5 +50,5 @@ https://github.com/GoogleChrome/lighthouse
 https://dev.to/oahehc/react-js-next-js-and-vue-js-nuxt-js-syntax-comparison-side-by-side-e3p
 
 ### Useful links:
-- 🗂 The Front-End Checklist Application is perfect for modern websites and meticulous developers!
+- 🗂 The Front-End Checklist Application is perfect for modern websites and meticulous developers.
 https://frontendchecklist.io/
