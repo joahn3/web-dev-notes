@@ -52,3 +52,6 @@ https://dev.to/oahehc/react-js-next-js-and-vue-js-nuxt-js-syntax-comparison-side
 ### Useful links:
 - 🗂 The Front-End Checklist Application is perfect for modern websites and meticulous developers.
 https://frontendchecklist.io/
+
+- How to add a README to your GitHub profile?
+https://www.geeksforgeeks.org/how-to-add-a-readme-to-your-github-profile/#:~:text=Github%20has%20recently%20added%20a,world%20to%20know%20about%20you.
