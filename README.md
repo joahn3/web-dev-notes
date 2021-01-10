@@ -60,3 +60,6 @@ https://dev.to/oahehc/react-js-next-js-and-vue-js-nuxt-js-syntax-comparison-side
 
 1. https://www.geeksforgeeks.org/how-to-add-a-readme-to-your-github-profile/#:~:text=Github%20has%20recently%20added%20a,world%20to%20know%20about%20you
 2. https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n
+
+- $1000 Website requirements example
+  - https://github.com/mrmccormack/1000-vader
