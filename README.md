@@ -63,3 +63,5 @@ https://dev.to/oahehc/react-js-next-js-and-vue-js-nuxt-js-syntax-comparison-side
 
 - $1000 Website requirements example
   - https://github.com/mrmccormack/1000-vader
+- SEO Analysis:
+  - https://sitechecker.pro/
